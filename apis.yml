@@ -8,9 +8,9 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - ITSM
   - IT Service Management
   - ITIL
+  - ITSM
   - Service Desk
 url: >-
   https://raw.githubusercontent.com/api-evangelist/itsm/refs/heads/main/apis.yml
