@@ -6,7 +6,18 @@ description: >-
   that are performed by an organization or part of an organization to plan,
   deliver, operate and control IT services offered to customers.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/itsm.png
 tags:
   - IT Service Management
   - ITIL
