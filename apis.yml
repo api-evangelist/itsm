@@ -19,6 +19,10 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/itsm.png
 tags:
+  - ITSM
+  - ITIL
+  - Service Desk
+tags_raw:
   - IT Service Management
   - ITIL
   - ITSM
